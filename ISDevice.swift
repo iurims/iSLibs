@@ -61,29 +61,10 @@ class ISDevice {
         case "iPhone7,2":
             return "iPhone6"
         default:
-            return "No identify"
+            return "No identified"
         }
     }
     
 
 }
 
-
-//
-//"iPhone1,2" //iPhone 3G
-//
-//"iPhone2,1" //iPhone 3GS
-//
-//"iPhone3,1" //iPhone 4 (GSM)
-//"iPhone3,2" //iPhone 4 (GSM Rev A)
-//"iPhone3,3" //iPhone 4 (CDMA)
-//
-//"iPhone4,1" //iPhone 4S
-//
-//"iPhone5,1" //iPhone 5 (GSM)
-//"iPhone5,2" //iPhone 5 (Global)
-//"iPhone5,3" //iPhone 5c (GSM, CDMA - US)
-//"iPhone5,4" //iPhone 5c (International - EU, ME, ASIA)
-//
-//"iPhone6,1" //iPhone 5s (GSM, CDMA - US)
-//"iPhone6,2" //iPhone 5s (International - EU, ME, ASIA)
